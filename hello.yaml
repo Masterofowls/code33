@@ -1,0 +1,7 @@
+# YAML Hello World example
+# YAML is a data serialization format, not a programming language
+message: 
+  greeting: "Hello, World!"
+metadata:
+  created: 2025-08-06
+  author: "GitHub Copilot"
